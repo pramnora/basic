@@ -1,4 +1,4 @@
-# basic  
+# BASIC  
 
 **BASIC**/(**B**)eginner's (**A**)ll-Purpose (**S**)ymbollic (**I**)nstruction (**C**)ode  
 
