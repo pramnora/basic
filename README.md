@@ -24,6 +24,9 @@ Wikipedia
 - https://smallbasic-publicwebsite.azurewebsites.net/ (official web site/download link)  
 - https://smallbasic-publicwebsite-code.azurewebsites.net/ (code online)  
 
+### SmallBASIC Tutorials  
+- https://smallbasic-publicwebsite.azurewebsites.net/tutorials  
+
 -----
 
 ### QB64  
