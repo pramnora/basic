@@ -16,9 +16,12 @@ Wikipedia
 - https://en.wikipedia.org/wiki/BASIC    
 
 ## Downloads
+-----
 
-### QB64
+### QB64  
 - https://www.softpedia.com/get/Programming/Coding-languages-Compilers/QB64.shtml   
-QB64 Tutorials  
+
+### QB64 Tutorials  
 - https://www.youtube.com/watch?v=hE-Voij5k5Q&list=PLF6199808BD4901E1 (School Freeware)  
 
+-----
