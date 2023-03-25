@@ -19,4 +19,6 @@ Wikipedia
 
 ### QB64
 - https://www.softpedia.com/get/Programming/Coding-languages-Compilers/QB64.shtml
+QB64 Tutorials
+- https://www.youtube.com/watch?v=hE-Voij5k5Q&list=PLF6199808BD4901E1 (School Freeware)  
 
