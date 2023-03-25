@@ -13,4 +13,5 @@ Articles
 - http://bitsavers.trailing-edge.com/pdf/dartmouth/BASIC_Oct64.pdf  
 - https://cis-alumni.org/TKurtz.html  (True BASIC)  
 - https://www.wired.com/video/watch/bill-gates-moments  (Bill Gates)  
+- https://time.com/69316/basic/ (Time Magazine/BASIC history)  
 
