@@ -11,4 +11,5 @@ Wikipedia
 
 Articles  
 - http://bitsavers.trailing-edge.com/pdf/dartmouth/BASIC_Oct64.pdf  
+- https://cis-alumni.org/TKurtz.html  
 
