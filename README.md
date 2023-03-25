@@ -1,6 +1,8 @@
 # basic  
 
-BASIC/(B)eginner's (A)ll-Purpose (S)ymbollic (I)nstruction (C)ode  
+**BASIC**/(**B**)eginner's (**A**)ll-Purpose (**S**)ymbollic (**I**)nstruction (**C**)ode  
+
+-----
 
 ## Links  
 
